@@ -23,8 +23,8 @@ if(mysqli_num_rows($checkEmailQuery) > 0){
 	$mail->SMTPAuth = true;
 	$mail->Host = 'smtp.googlemail.com:465';
 	$mail->SMTPSecure = "ssl";
-	$mail->Username = 'hrd2011frenley@gmail.com';
-	$mail->Password = 'frenleybidya@89';
+	$mail->Username = 'frenleyredbytes@gmail.com';
+	$mail->Password = 'frenley@redbytes';
 	$mail->FromName = "123-clic";
 	$from_mail = 'frenleyredbytes@gmail.com';
 	$mail->SetFrom($from_mail, "123-clic.fr");
