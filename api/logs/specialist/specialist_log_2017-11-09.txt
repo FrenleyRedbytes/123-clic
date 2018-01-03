@@ -1,0 +1,178 @@
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 08:43:06
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"command":"login",
+	"authToken":"123",
+	"userType":"specialist"
+}
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 09:04:55
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"authToken":"123",
+	"command":"login",
+	"userType":"specialist",
+	"email":"frenley@gmail.com",
+	"password":"1234"
+}
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 09:06:56
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"authToken":"123",
+	"command":"login",
+	"userType":"specialist",
+	"email":"frenley@gmail.com",
+	"password":"1234"
+}
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 09:07:37
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"authToken":"123",
+	"command":"login",
+	"userType":"specialist",
+	"email":"frenley@gmail.com",
+	"password":"1234"
+}
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 09:08:08
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"authToken":"123",
+	"command":"login",
+	"userType":"specialist",
+	"email":"frenley@gmail.com",
+	"password1":"1234"
+}
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 09:08:18
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"authToken":"123",
+	"command":"login",
+	"userType":"specialist",
+	"email":"frenley@gmail.com"
+}
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-09 09:08:49
+
+Request Status:success
+
+User Type:specialist
+
+Actual Data Received:{
+	"authToken":"123",
+	"command":"login",
+	"userType":"specialist",
+	"email":"frenley@gmail.com"
+}
+
+---------------------------------------------------------------

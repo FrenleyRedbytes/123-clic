@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<script type="text/javascript">
+	window.onload = function () {
+		
+		//initial value of dataPoints 
+		var dps = [
+		{label: "boiler1", y: 206},
+		{label: "boiler2", y: 163},
+		{label: "boiler3", y: 154},
+		{label: "boiler4", y: 176},
+		{label: "boiler5", y: 184},
+		{label: "boiler6", y: 122}
+		];	
+
+		var chart = new CanvasJS.Chart("chartContainer",{			
+			title: {
+				text: "Temperature of Each Boiler"		
+			},
+			axisY: {				
+				suffix: " C"
+			},		
+			legend :{
+				verticalAlign: 'bottom',
+				horizontalAlign: "center"
+			},
+			data: [
+			{
+				type: "column",	
+				bevelEnabled: true,				
+				indexLabel: "{y} C",
+				dataPoints: dps					
+			}
+			]
+		});
+
+		
+		var updateInterval = 1000;	
+		
+
+		var updateChart = function () {
+
+			for (var i = 0; i < dps.length; i++) {
+				
+				// generating random variation deltaY
+				var deltaY = Math.round(2 + Math.random() *(-2-2));				
+				var yVal = deltaY + dps[i].y > 0 ? dps[i].y + deltaY : 0;
+				var boilerColor;
+
+
+				// color of dataPoint dependent upon y value. 
+
+				boilerColor =
+				yVal > 200 ? "#FF2500":
+				yVal >= 170 ? "#FF6000":
+				yVal < 170 ? "#6B8E23 ":							
+				null;
+
+
+				// updating the dataPoint
+				dps[i] = {label: "boiler"+(i+1) , y: yVal, color: boilerColor};
+
+			};
+
+			chart.render();
+		};
+		
+		updateChart();		
+
+		// update chart after specified interval 
+		setInterval(function(){updateChart()}, updateInterval);
+
+
+	}
+	</script>
+
+
+<script>
+var wikipediaHTMLResult = function(data) {
+    var readData = $('<div>' + data.parse.text + '</div>');
+
+    // handle redirects
+    var redirect = readData.find('li:contains("REDIRECT") a').text();
+    if(redirect != '') {
+    	callWikipediaAPI(redirect);
+        return;
+    }
+    
+    var box = readData.find('.infobox');
+    
+    var binomialName    = box.find('.binomial').text();
+    var fishName        = box.find('th').first().text();
+    var imageURL        = null;
+
+    // Check if page has images
+    if(data.parse.images.length >= 1) {
+        imageURL        = box.find('img').first().attr('src');
+    }
+    
+    $('#insertTest').append('<div><img src="'+ imageURL + '"/>'+ fishName +' <i>('+ binomialName +')</i></div>');
+};
+
+function callWikipediaAPI(wikipediaPage) {
+	// http://www.mediawiki.org/wiki/API:Parsing_wikitext#parse
+    $.getJSON('http://en.wikipedia.org/w/api.php?action=parse&format=json&callback=?', {page:wikipediaPage, prop:'text|images', uselang:'en'}, wikipediaHTMLResult);
+}
+
+callWikipediaAPI('Aholehole');
+</script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/jquery.canvasjs.min.js"></script>
+</head>
+<body>
+<div id="insertTest"></div>
+	<div id="chartContainer" style="height: 300px; width: 100;">
+	</div>
+</body>
+</html>

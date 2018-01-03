@@ -1,0 +1,26 @@
+<div id="sidebar" class="sidebar-fixed"> 
+    <div id="sidebar-content"> 
+        <ul id="nav"> 
+            <li>
+            <a href="<?php echo base_url(); ?>index.php/dashboard_specialist/specialist">
+            <i class="fa fa-dashboard"></i>Accueil du Professionnel <span ></span>
+            </a>
+            </li>                   
+            <li>
+            <a href="<?php echo base_url(); ?>index.php/services">
+            <i class="fa fa-tasks" aria-hidden="true"></i>Service Professionnel
+            </a>
+            </li>   
+            <li>
+            <a href="<?php echo base_url(); ?>index.php/specialist1">
+            <i class="fa fa-tasks" aria-hidden="true"></i>Ajouter un Employ&eacute;
+            </a>
+            </li>                    
+            <li>
+            <a href="<?php echo base_url(); ?>index.php/booking/booking_list">
+            <i class="fa fa-tasks" aria-hidden="true"></i>Ajouter une r&eacute;servation
+            </a>
+            </li>  
+        </ul> 
+    </div> 
+</div>  

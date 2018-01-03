@@ -1,0 +1,2028 @@
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 12:49:14
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"login",
+    "userType":"customer",
+    "email":"admin@gmail.com",
+    "password":"admin"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 12:49:14
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"login",
+    "userType":"customer",
+    "email":"admin@gmail.com",
+    "password":"admin"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 12:49:14
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"login",
+    "userType":"customer",
+    "email":"admin@gmail.com",
+    "password":"admin"
+}
+
+Data Responded:{"cust_id":"60","cust_name":"testing","cust_mobile":"7999996422","cust_email":"admin@gmail.com","cust_zipcode":"13300","cust_address":"NA","cust_city":"indore"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:50:08
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:50:08
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:50:08
+
+Request Status:failed
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:51:20
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:51:20
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:51:20
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+Data Responded:{"cust_id":"60","cust_name":"testing","cust_mobile":"7999996422","cust_email":"admin@gmail.com","cust_zipcode":"13300","cust_address":"NA","cust_city":"indore"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:52:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:52:16
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 12:52:16
+
+Request Status:failed
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:54
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:54
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:54
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+Data Responded:{"cust_id":"60","cust_name":"testing","cust_mobile":"7999996422","cust_email":"admin@gmail.com","cust_zipcode":"13300","cust_address":"NA","cust_city":"indore"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:Before Going Inside category_list Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"gynecologuer.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 01:41:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"gynecologuer.jpg"},{"category_id":"32","category_name":"PEDIATRE","category_logo":"pediatre.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:10
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list1",
+    "userType":"customer"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:Before Going Inside category_list Page
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"gynecologuer.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:11:17
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"gynecologuer.jpg"},{"category_id":"32","category_name":"PEDIATRE","category_logo":"pediatre.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:Before Going Inside category_list Page
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"gynecologuer.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-24 02:17:18
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"category_list",
+    "userType":"customer"
+}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"gynecologuer.jpg"},{"category_id":"32","category_name":"PEDIATRE","category_logo":"pediatre.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:29:33
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:29:33
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:29:33
+
+Request Status:failed
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:29:55
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:29:55
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:29:55
+
+Request Status:failed
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:30:40
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:30:40
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:30:40
+
+Request Status:failed
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"a","password":"a"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:08
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:08
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:08
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+Data Responded:{"cust_id":"60","cust_name":"testing","cust_mobile":"7999996422","cust_email":"admin@gmail.com","cust_zipcode":"13300","cust_address":"NA","cust_city":"indore"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:Before Going Inside category_list Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/gynecologuer.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:31:16
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/gynecologuer.jpg"},{"category_id":"32","category_name":"PEDIATRE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/pediatre.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:Before Going Inside category_list Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/gynecologuer.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:30
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/gynecologuer.jpg"},{"category_id":"32","category_name":"PEDIATRE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/pediatre.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"login","userType":"customer","email":"admin@gmail.com","password":"admin"}
+
+Data Responded:{"cust_id":"60","cust_name":"testing","cust_mobile":"7999996422","cust_email":"admin@gmail.com","cust_zipcode":"13300","cust_address":"NA","cust_city":"indore"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:Before Going Inside category_list Page
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/gynecologuer.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:192.168.1.1
+
+Requested Requested_Page:category_list
+
+Requested Method:POST
+
+Request Sent From:phone
+
+Requested Date And Time:2017-11-24 02:40:42
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{"authToken":"1234567890","command":"category_list","userType":"customer"}
+
+Data Responded:[{"category_id":"25","category_name":"MEDICAL","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/medecine.jpg"},{"category_id":"26","category_name":"COIFFEUR","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/coiffeur.jpg"},{"category_id":"27","category_name":"EPILATION","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/epilation3.jpg"},{"category_id":"28","category_name":"MASSAGE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/massage.jpg"},{"category_id":"29","category_name":"ONGLERIE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/manicure.jpg"},{"category_id":"30","category_name":"ANIMAUX","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/toiletteur.jpg"},{"category_id":"31","category_name":"GYNECOLOGUE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/gynecologuer.jpg"},{"category_id":"32","category_name":"PEDIATRE","category_logo":"http:\/\/182.72.44.11\/123-clic\/directory_admin\/uploads\/pediatre.jpg"}]
+
+------------------------------------------------------------------------------------------------------------------------------

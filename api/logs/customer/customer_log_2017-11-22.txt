@@ -1,0 +1,80 @@
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:authentication
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-22 11:11:09
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"login",
+    "userType":"customer",
+    "email":"admin@gmail.com",
+    "password":"admin"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-22 11:11:09
+
+Request Status:Before Going Inside Login Page
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"login",
+    "userType":"customer",
+    "email":"admin@gmail.com",
+    "password":"admin"
+}
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Requested Remote Address:::1
+
+Requested Requested_Page:login
+
+Requested Method:POST
+
+Request Sent From:computer
+
+Requested Date And Time:2017-11-22 11:11:09
+
+Request Status:success
+
+User Type:customer
+
+Actual Data Received:{
+	"authToken":"1234567890",
+    "command":"login",
+    "userType":"customer",
+    "email":"admin@gmail.com",
+    "password":"admin"
+}
+
+Data Responded:{"cust_id":"60","cust_name":"testing","cust_mobile":"7999996422","cust_email":"admin@gmail.com","cust_zipcode":"13300","cust_address":"NA","cust_city":"indore"}
+
+------------------------------------------------------------------------------------------------------------------------------
